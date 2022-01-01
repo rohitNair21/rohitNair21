@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rohitNair21
+- 👀 I’m interested in expanding my programming horizons
+- 🌱 I’m currently learning Python
+- 📫 Contact me at nairrohit003@gmail.com
