@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rohitNair21
 - 👀 I’m interested in expanding my programming horizons
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying at the University of Calgary
 - 📫 Contact me at nairrohit003@gmail.com
