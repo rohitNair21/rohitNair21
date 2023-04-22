@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rohitNair21
 - 👀 I’m interested in expanding my programming horizons
 - 🌱 I’m currently studying at the University of Calgary
-- 📫 Contact me at nairrohit003@gmail.com
+- 📫 Contact me at rohit.nair@ucalgary.ca or connect with me on LinkedIn https://www.linkedin.com/in/rohit-n-345957192/
