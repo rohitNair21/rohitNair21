@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal portfolio [https://rohitrojnairportfolio.vercel.app/](https://rohitrojnairportfolio.vercel.app/)
 
-- 📫 Reach me at **rohit.nair@ucalgary.ca**
+- 📫 Reach me at **nairrohit003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
