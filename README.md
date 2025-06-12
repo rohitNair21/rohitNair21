@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Nair</h1>
 <h3 align="center">I’m interested in expanding my programming horizons. Currently, I am learning more about REST APIs and Full Stack Web Development!</h3>
 
-- 🔭 I’m currently working on [CampusFire](https://github.com/orgs/Campus-Fire/dashboard)
+- 🔭 I’m currently looking for new oppurtunities!
 
-- 🌱 I’m currently learning **NoSQL and GraphQL**
+- 🌱 I’m currently exploring **Azure**!
 
-- 👨‍💻 My personal portfolio [https://rohitrojnairportfolio.vercel.app/](https://rohitrojnairportfolio.vercel.app/)
+- 👨‍💻 My personal portfolio [https://rohitnair21.github.io/portfoliofinal/](https://rohitnair21.github.io/portfoliofinal/)
 
 - 📫 Reach me at **nairrohit003@gmail.com**
 
